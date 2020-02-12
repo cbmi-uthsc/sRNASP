@@ -7,8 +7,10 @@ install Archive::Extract
 exit
 
 wget https://www.smallrnagroup.uni-mainz.de/software/unitas_1.7.5.zip
+
 unzip unitas_1.7.5.zip
 wget http://www-personal.umich.edu/~jianghui/seqmap/download/seqmap-1.0.12-linux-64.zip
+
 rename it to seqmap.exe and move into unitas directory
 
 
